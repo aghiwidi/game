@@ -1,0 +1,6 @@
+{
+  "name": "Takhta & Benteng — Perang Kerajaan RTS",
+  "description": "Game strategi real-time perang antar kerajaan bergaya Age of Empires dengan pembangunan benteng, mode offline vs AI, dan multiplayer P2P siap deploy ke Cloudflare Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
